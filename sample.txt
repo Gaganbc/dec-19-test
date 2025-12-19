@@ -1,2 +1,5 @@
 Sample texts 
-editing sample file direcyl from github
+
+adding a new line from vs code
+
+this is second change from vs code
